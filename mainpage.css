@@ -1,0 +1,81 @@
+#d1{
+    display: flex;
+    border: 6px double rebeccapurple;
+    justify-content: space-between;
+    background-color: black;
+}
+
+#d3{
+    max-width: 288px;
+    max-height: 600px;
+}
+p{
+    color:rebeccapurple;
+    border: 6px double rebeccapurple;
+}
+#d4{
+    display:flex;
+    border: 6px double rebeccapurple;
+    justify-content: space-evenly;
+    flex: 1;
+    flex-wrap: wrap;
+}
+#d2{
+    max-width: 288px;
+    max-height: 600px;
+}
+#d6{
+    display:flex;
+    border: 6px double plum;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#d8{
+    display:flex;
+    border: 6px double rebeccapurple;
+    justify-content: space-evenly;
+}
+#d14{
+    /* The image used */
+    background-image: url("download1.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#d13{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#d11{
+    /* The image used */
+    background-image: url("download3.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#d10{
+     /* The image used */
+    background-image: url("images.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
